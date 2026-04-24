@@ -1,0 +1,51 @@
+h1{
+color: #0028ff;
+text-align:center;
+}
+hr{
+    color:#0028ff;
+    border:0;
+    border-top: 3px solid #0028ff;}
+h2{
+color: green;
+text-align:center;
+font-size:medium;
+}
+body{
+background-color:pink;
+}
+h4{
+color:black;
+text-align:center;
+}
+h6{
+color:black;
+font-size:x-large;
+text-align:center
+}
+ol{
+color:black;
+font-size:large;
+text-align:left;
+}
+ul{
+color:black;
+font-size:large;
+text-align:left;
+}
+h7{
+color:black;
+font-size:x-large;
+text-align:center;
+}
+h3{color:black;
+font-size:large;
+text-align:center}
+h5{color:black;
+font-size:large;
+text-align:center}
+img {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
